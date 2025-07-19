@@ -1,6 +1,5 @@
-# ETDS-RDD-
- This notebook demonstrates basic RDD operations using PySpark, including transformations and actions. It serves as a foundational exercise for understanding distributed data processing in Apache Spark
-# ETDS 2 Practical 1 - RDD Operations in PySpark
+
+# RDD Operations in PySpark
 
 This repository contains the Jupyter Notebook for **Practical 1** of the subject **ETDS 2**, focusing on working with **Resilient Distributed Datasets (RDDs)** using **Apache Spark and PySpark**.
 
