@@ -3,7 +3,7 @@
 
 This repository contains the Jupyter Notebook for **Practical 1** of the subject **ETDS 2**, focusing on working with **Resilient Distributed Datasets (RDDs)** using **Apache Spark and PySpark**.
 
-## 📚 Description
+##  Description
 
 The notebook demonstrates the creation, transformation, and actions on RDDs using PySpark. It provides examples of basic RDD operations such as:
 
@@ -15,18 +15,18 @@ The notebook demonstrates the creation, transformation, and actions on RDDs usin
 
 This practical aims to build a foundational understanding of distributed data processing using Spark's low-level API.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Python 3
 - PySpark
 - Jupyter Notebook
 
-## 📁 Files
+##  Files
 
 - `ETDS_2_PRACTICAL_1_RDD_.ipynb`: Jupyter Notebook with code and explanations for RDD operations.
 - `LICENSE`: MIT License for open-source usage.
 
-## 🔧 Getting Started
+##  Getting Started
 
 1. **Install Dependencies**:
    Make sure PySpark is installed:
